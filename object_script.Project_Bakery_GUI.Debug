@@ -1,0 +1,12 @@
+debug/Action.o
+debug/Controller.o
+debug/FileRepo.o
+debug/FilteringCriteria.o
+debug/Pastry.o
+debug/Repo.o
+debug/RepoExceptions.o
+debug/SortingCriteria.o
+debug/Tests.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o

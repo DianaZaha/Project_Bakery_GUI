@@ -1,0 +1,12 @@
+release/Action.o
+release/Controller.o
+release/FileRepo.o
+release/FilteringCriteria.o
+release/Pastry.o
+release/Repo.o
+release/RepoExceptions.o
+release/SortingCriteria.o
+release/Tests.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o
